@@ -61,7 +61,7 @@ jobs:
           ./scripts/feeds install -a
 
       - name: Generate configuration file
-        run:  |
+        run: |
           rm -f ./.config*
           touch ./.config
           #
