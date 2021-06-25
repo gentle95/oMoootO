@@ -33,7 +33,7 @@ http://192.168.1.8:4022/rtp/239.93.5.71:8420
 http://192.168.1.8:4022/rtp/239.93.5.41:8240
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川影视文艺
 http://192.168.1.8:4022/rtp/239.93.5.188:9600
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SCTV7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",SCTV7
 http://192.168.1.8:4022/rtp/239.93.4.87:7348
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="四川",峨眉电影
 http://192.168.1.8:4022/rtp/239.93.5.150:9374
