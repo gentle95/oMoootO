@@ -37,7 +37,7 @@ http://192.168.1.8:4022/rtp/239.93.5.131:7918
 http://192.168.1.8:4022/rtp/239.93.5.154:7832
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://192.168.1.8:4022/rtp/239.93.5.242:9924
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K
+#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="四川",爱上4K
 http://192.168.1.8:4022/rtp/239.93.4.252:8816
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
 http://192.168.1.8:4022/rtp/239.93.5.107:8636
