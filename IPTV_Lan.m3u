@@ -139,6 +139,8 @@ http://192.168.1.8:4022/rtp/239.93.5.76:8450
 http://192.168.1.8:4022/rtp/239.93.5.108:8642
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳综合高清
 http://192.168.1.8:4022/rtp/239.93.4.178:7712
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",三台电视台
+http://125.65.94.91:12351/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",直播三台
 http://live.sctvcloud.com/live/stzhibo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",慢三台
