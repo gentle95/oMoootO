@@ -9,7 +9,7 @@ http://192.168.1.8:4022/rtp/239.93.5.60:8354
 http://192.168.1.8:4022/rtp/239.93.5.141:9320
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4高清
 http://192.168.1.8:4022/rtp/239.93.4.186:7728
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV5高清
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.pn" group-title="央视",CCTV5高清
 http://192.168.1.8:4022/rtp/239.93.5.143:9332
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+高清
 http://192.168.1.8:4022/rtp/239.93.5.78:8462
@@ -129,13 +129,13 @@ http://192.168.1.8:4022/rtp/239.93.5.173:7942
 http://192.168.1.8:4022/rtp/239.93.4.254:7796
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="四川",峨眉电影
 http://192.168.1.8:4022/rtp/239.93.5.116:8696
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绵阳公共高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳公共高清
 http://192.168.1.8:4022/rtp/239.93.5.75:8444
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绵阳科技高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳科技高清
 http://192.168.1.8:4022/rtp/239.93.5.76:8450
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绵阳服务信息
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳服务信息
 http://192.168.1.8:4022/rtp/239.93.5.108:8642
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绵阳综合高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳综合高清
 http://192.168.1.8:4022/rtp/239.93.4.178:7712
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实高清
 http://192.168.1.8:4022/rtp/239.93.4.189:7736
