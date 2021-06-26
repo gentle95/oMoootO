@@ -129,6 +129,8 @@ http://192.168.1.8:4022/rtp/239.93.5.173:7942
 http://192.168.1.8:4022/rtp/239.93.4.254:7796
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="四川",峨眉电影
 http://192.168.1.8:4022/rtp/239.93.5.116:8696
+#EXTINF:-1 tvg-id="FengHuangZhongWenHD.cn" tvg-name="凤凰中文HD" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",凤凰中文HD
+http://223.82.250.72/live/fhchinese/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳公共高清
 http://192.168.1.8:4022/rtp/239.93.5.75:8444
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳科技高清
