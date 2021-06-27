@@ -131,19 +131,19 @@ http://192.168.1.8:4022/rtp/239.93.4.254:7796
 http://192.168.1.8:4022/rtp/239.93.5.116:8696
 #EXTINF:-1 tvg-id="FengHuangZhongWen.cn" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳公共高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/mianyang.png" group-title="绵阳",绵阳公共高清
 http://192.168.1.8:4022/rtp/239.93.5.75:8444
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳科技高清
 http://192.168.1.8:4022/rtp/239.93.5.76:8450
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳服务信息
+#EXTINF:-1 tvg-id="" tvg-name="绵阳服务信息" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/mianyang.png" group-title="绵阳",绵阳服务信息
 http://192.168.1.8:4022/rtp/239.93.5.108:8642
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳综合高清
+#EXTINF:-1 tvg-id="" tvg-name="绵阳综合" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/mianyang.png" group-title="绵阳",绵阳综合高清
 http://192.168.1.8:4022/rtp/239.93.4.178:7712
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",三台电视台
+#EXTINF:-1 tvg-id="" tvg-name="三台电视台" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/mianyang.png" group-title="绵阳",三台电视台
 http://125.65.94.91:12351/live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",直播三台
+#EXTINF:-1 tvg-id="" tvg-name="直播三台" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/mianyang.png" group-title="绵阳",直播三台
 http://live.sctvcloud.com/live/stzhibo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",慢三台
+#EXTINF:-1 tvg-id="" tvg-name="慢三台" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/mianyang.png" group-title="绵阳",慢三台
 http://60.255.136.157/0.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实高清
 http://192.168.1.8:4022/rtp/239.93.4.189:7736
