@@ -149,7 +149,7 @@ http://60.255.136.157/0.m3u8
 http://192.168.1.8:4022/rtp/239.93.4.189:7736
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实高清
 http://192.168.1.8:4022/rtp/239.93.4.199:7740
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通·四川
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="四川",中国交通·四川
 http://192.168.1.8:4022/rtp/239.93.4.174:7760
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV1 高清
 http://192.168.1.8:4022/rtp/239.93.5.8:7812
