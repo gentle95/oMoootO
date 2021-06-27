@@ -59,9 +59,9 @@ http://192.168.1.8:4022/rtp/239.93.5.132:9254
 http://192.168.1.8:4022/rtp/239.93.5.125:8750
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视高清
 http://192.168.1.8:4022/rtp/239.93.5.126:8756
-#EXTINF:-1 tvg-id="2055" tvg-name="四川经济" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川经济高清
+#EXTINF:-1 tvg-id="2054" tvg-name="四川经济" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川经济高清
 http://192.168.1.8:4022/rtp/239.93.5.71:8420
-#EXTINF:-1 tvg-id="2054" tvg-name="四川文化旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川文化旅游高清
+#EXTINF:-1 tvg-id="2055" tvg-name="四川文化旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川文化旅游高清
 http://192.168.1.8:4022/rtp/239.93.5.41:8240
 #EXTINF:-1 tvg-id="2056" tvg-name="四川新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川新闻高清
 http://192.168.1.8:4022/rtp/239.93.4.179:7720
