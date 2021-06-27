@@ -171,20 +171,20 @@ http://192.168.1.8:4022/rtp/239.93.5.253:9990
 http://192.168.1.8:4022/rtp/239.93.5.104:8618
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫爱生活高清
 http://192.168.1.8:4022/rtp/239.93.5.32:8186
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱四川高清" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",大爱四川高清
+http://192.168.1.8:4022/rtp/239.93.5.184:9576
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱旅游" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",大爱旅游
+http://192.168.1.8:4022/rtp/239.93.5.148:9362
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱生活" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",大爱生活
+http://192.168.1.8:4022/rtp/239.93.5.149:9368
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱时尚" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",大爱时尚
+http://192.168.1.8:4022/rtp/239.93.5.33:8192
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",炫动卡通
 http://192.168.1.8:4022/rtp/239.93.5.106:8630
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
 http://192.168.1.8:4022/rtp/239.93.5.158:9432
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",收视导视
 http://192.168.1.8:4022/rtp/239.93.5.122:8732
-#EXTINF:-1 tvg-id="6027" tvg-name="大爱四川高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="四川",大爱四川高清
-http://192.168.1.8:4022/rtp/239.93.5.184:9576
-#EXTINF:-1 tvg-id="6027" tvg-name="大爱旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="四川",大爱旅游
-http://192.168.1.8:4022/rtp/239.93.5.148:9362
-#EXTINF:-1 tvg-id="6027" tvg-name="大爱生活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="四川",大爱生活
-http://192.168.1.8:4022/rtp/239.93.5.149:9368
-#EXTINF:-1 tvg-id="6027" tvg-name="大爱时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="四川",大爱时尚
-http://192.168.1.8:4022/rtp/239.93.5.33:8192
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HD看电影
 http://192.168.1.8:4022/rtp/239.93.5.1:8824
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家政频道
