@@ -153,23 +153,23 @@ http://192.168.1.8:4022/rtp/239.93.4.199:7740
 http://192.168.1.8:4022/rtp/239.93.4.174:7760
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV1 高清
 http://192.168.1.8:4022/rtp/239.93.5.8:7812
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫新闻高清
+#EXTINF:-1 tvg-id="" tvg-name="熊猫新闻" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫新闻高清
 http://192.168.1.8:4022/rtp/239.93.5.99:8588
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫体娱高清
+#EXTINF:-1 tvg-id="" tvg-name="熊猫体娱" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫体娱高清
 http://192.168.1.8:4022/rtp/239.93.5.109:8648
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫少儿高清
+#EXTINF:-1 tvg-id="" tvg-name="熊猫少儿" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫少儿高清
 http://192.168.1.8:4022/rtp/239.93.5.178:9540
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫影院高清
+#EXTINF:-1 tvg-id="" tvg-name="熊猫影院" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫影院高清
 http://192.168.1.8:4022/rtp/239.93.5.110:8654
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",睛彩四川
+#EXTINF:-1 tvg-id="" tvg-name="睛彩四川" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",睛彩四川
 http://192.168.1.8:4022/rtp/239.93.4.40:7140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",成都大运高清
+#EXTINF:-1 tvg-id="" tvg-name="成都大运" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",成都大运高清
 http://192.168.1.8:4022/rtp/239.93.5.254:9996
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫频道高清
+#EXTINF:-1 tvg-id="" tvg-name="熊猫频道" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫频道高清
 http://192.168.1.8:4022/rtp/239.93.5.253:9990
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",金熊猫卡通高清
+#EXTINF:-1 tvg-id="" tvg-name="金熊猫卡通" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",金熊猫卡通高清
 http://192.168.1.8:4022/rtp/239.93.5.104:8618
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫爱生活高清
+#EXTINF:-1 tvg-id="" tvg-name="熊猫爱生活" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",熊猫爱生活高清
 http://192.168.1.8:4022/rtp/239.93.5.32:8186
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱四川高清" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/panda.png" group-title="四川",大爱四川高清
 http://192.168.1.8:4022/rtp/239.93.5.184:9576
