@@ -127,7 +127,7 @@ http://192.168.1.8:4022/rtp/239.93.5.227:9834
 http://192.168.1.8:4022/rtp/239.93.5.173:7942
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.1.8:4022/rtp/239.93.4.254:7796
-#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="四川",峨眉电影
+#EXTINF:-1 tvg-id="7244" tvg-name="峨眉电影" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",峨眉电影
 http://192.168.1.8:4022/rtp/239.93.5.116:8696
 #EXTINF:-1 tvg-id="FengHuangZhongWenHD.cn" tvg-name="凤凰中文HD" tvg-country="CN" tvg-language="" tvg-logo="" group-title="港澳台",凤凰中文HD
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
