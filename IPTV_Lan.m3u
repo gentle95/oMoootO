@@ -37,6 +37,8 @@ http://192.168.1.8:4022/rtp/239.93.5.131:7918
 http://192.168.1.8:4022/rtp/239.93.5.154:7832
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="四川",爱上4K
 http://192.168.1.8:4022/rtp/239.93.4.252:8816
+#EXTINF:-1 tvg-id="" tvg-name="绚影4K" tvg-logo="https://raw.githubusercontent.com/gentle95/oMoooTo/main/xy4k.png" group-title="四川",绚影4K
+http://192.168.1.8:4022/rtp/239.93.4.248:8800
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
 http://192.168.1.8:4022/rtp/239.93.5.107:8636
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
@@ -319,8 +321,6 @@ http://192.168.1.8:4022/rtp/239.93.4.246:8792
 http://192.168.1.8:4022/rtp/239.93.4.224:8496
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",麻辣体育
 http://192.168.1.8:4022/rtp/239.93.5.210:9732
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绚影4K
-http://192.168.1.8:4022/rtp/239.93.4.248:8800
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国体育1
 http://192.168.1.8:4022/rtp/239.93.5.241:8766
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国体育2
