@@ -1,5 +1,7 @@
 IPTV_Lan
 https://git.io/Jc86p
+IPTV_Wan
+https://git.io/Jc89S
 
 短网址获取
 curl -i https://git.io -F 'url=地址'
