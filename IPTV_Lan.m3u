@@ -83,9 +83,9 @@ http://192.168.1.8:4022/rtp/239.93.5.191:7978
 http://192.168.1.8:4022/rtp/239.93.4.209:8270
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视高清
 http://192.168.1.8:4022/rtp/239.93.4.208:8266
-#EXTINF:-1 tvg-id="2055" tvg-name="四川经济" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川经济高清
+#EXTINF:-1 tvg-id="2054" tvg-name="四川经济" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川经济高清
 http://192.168.1.8:4022/rtp/239.93.5.71:8420
-#EXTINF:-1 tvg-id="2054" tvg-name="四川文化旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川文化旅游高清
+#EXTINF:-1 tvg-id="2055" tvg-name="四川文化旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川文化旅游高清
 http://192.168.1.8:4022/rtp/239.93.5.41:8240
 #EXTINF:-1 tvg-id="2056" tvg-name="四川新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川新闻高清
 http://192.168.1.8:4022/rtp/239.93.4.179:7720
