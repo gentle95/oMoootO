@@ -3,4 +3,4 @@
 # [自用电视直播源(带台标信息)](https://raw.githubusercontent.com/gentle95/oMoooTo/main/oMoooTo.m3u)
 
 亿家分享码
-287963
+747455
