@@ -33,6 +33,10 @@ http://home.ddx2013.cn:4022/rtp/239.93.4.210:8278
 http://home.ddx2013.cn:4022/rtp/239.93.5.69:8408
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15高清
 http://home.ddx2013.cn:4022/rtp/239.93.5.131:7918
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16高清
+http://home.ddx2013.cn:4022/rtp/239.93.4.219:8436
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16 4K超高清
+http://home.ddx2013.cn:4022/rtp/239.93.5.206:8840
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17高清
 http://home.ddx2013.cn:4022/rtp/239.93.5.154:7832
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="四川",爱上4K
