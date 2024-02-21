@@ -9,7 +9,7 @@ wget -4 https://github.com/MetaCubeX/mihomo/releases/download/$latest_version/mi
 gzip -d /docker/clash/mihomo.gz -f
 chmod +x /docker/clash/mihomo
 now_version=$(/docker/clash/mihomo -v | grep Mihomo | awk '{print$3}')
-wget -4 https://raw.githubusercontent.com/gentle95/oMoooTo/main/Clash.Meta.yaml -O /docker/clash/Clash.Meta.yaml
+wget https://192.168.1.9/Clash.Meta.yaml -O /docker/clash/Clash.Meta.yaml
 
 echo "安装Clash服务"
 touch /etc/systemd/system/clash.service
