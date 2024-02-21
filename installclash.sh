@@ -1,5 +1,5 @@
 echo "开始安装ClashMeta"
-apt install curl wget -y
+apt install curl wget gzip tar -y
 mkdir /docker
 mkdir /docker/clash
 work=/docker/clash/
