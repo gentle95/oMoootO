@@ -2,14 +2,16 @@ echo "开始安装ClashMeta"
 apt install curl wget -y
 mkdir /docker
 mkdir /docker/clash
-cd /docker/clash
+work=/docker/clash/
 
 latest_version=$(wget -qO- -t1 -T2 "https://api.github.com/repos/MetaCubeX/mihomo/releases/latest" | grep "tag_name" | head -n 1 | awk -F ":" '{print $2}' | sed 's>
 wget -4 https://github.com/MetaCubeX/mihomo/releases/download/$latest_version/mihomo-linux-amd64-compatible-go120-$latest_version.gz -O mihomo.gz
 gzip -d mihomo.gz -f
+mv mihomo /docker/clash/mihomo
 chmod +x /docker/clash/mihomo
 now_version=$(/docker/clash/mihomo -v | grep Mihomo | awk '{print$3}')
 wget -4 https://raw.githubusercontent.com/gentle95/oMoooTo/main/Clash.Meta.yaml -O /docker/clash/Clash.Meta.yaml
+
 echo "安装Clash服务"
 touch /etc/systemd/system/clash.service
 
