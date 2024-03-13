@@ -577,4 +577,5 @@ payload:
  - DOMAIN-SUFFIX,metapix.net
  - DOMAIN-SUFFIX,s3.amazonaws.com
  - DOMAIN-SUFFIX,zaobao.com.sg
+ - DOMAIN-SUFFIX,x.com
  - DOMAIN,international-gfe.download.nvidia.com
