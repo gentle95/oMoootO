@@ -1,5 +1,6 @@
 IPTV_Lan
 https://git.io/Jc86p
+https://raw.gitmirror.com/gentle95/oMoooTo/main/IPTV_Lan
 IPTV_Wan
 https://git.io/Jc89S
 
