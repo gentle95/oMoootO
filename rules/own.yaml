@@ -1,6 +1,10 @@
 payload:
-  - '+.ddx2013.cc'
-  - '+.ddx2013.link'
-  - '+.thebyrut.org'
-  - 'cdn.jsdelivr.net'
-  - '+.dynadot.com'
+  - DOMAIN-SUFFIX,ddx2013.cc
+  - DOMAIN-SUFFIX,ddx2013.link
+  - DOMAIN-SUFFIX,thebyrut.org
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,dynadot.com
+  - SRC-IP-CIDR,192.168.1.65/32
+  - SRC-IP-CIDR,192.168.1.91/32
+  - SRC-IP-CIDR,192.168.1.92/32
+  - SRC-IP-CIDR,192.168.1.93/32
