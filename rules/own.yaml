@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,ddx2013.link
   - DOMAIN-SUFFIX,thebyrut.org
   - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,gamer520.com
   - DOMAIN-SUFFIX,dynadot.com
   - DOMAIN-SUFFIX,linksyssmartwifi.com
   - SRC-IP-CIDR,192.168.1.74/32
