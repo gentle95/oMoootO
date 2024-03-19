@@ -7,4 +7,5 @@ https://git.io/Jc89S
 短网址获取
 curl -i https://git.io -F 'url=地址'
 
-http://epg.51zmt.top:8000/e.xml
+http://epg.51zmt.top:8000/cc.xml
+https://raw.gitmirror.com/gentle95/oMoooTo/main/IPTV_unicom
