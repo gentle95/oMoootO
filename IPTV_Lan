@@ -25,7 +25,7 @@ http://192.168.1.50:54022/rtp/239.93.5.129:7914
 http://192.168.1.50:54022/rtp/239.93.5.68:8402
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13高清
 http://192.168.1.50:54022/rtp/239.93.4.210:8278
-#EXTINF:-1 tvg-id="IPTV少儿动画" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14高清
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14高清
 http://192.168.1.50:54022/rtp/239.93.5.69:8408
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15高清
 http://192.168.1.50:54022/rtp/239.93.5.131:7918
