@@ -45,7 +45,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227413/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227411/index.m3u8
 #EXTINF:-1,tvg-id="SCTV5" tvg-name="SCTV5" tvg-logo="https://epg.112114.xyz/logo/SCTV5.png" group-title="四川",SCTV-5高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227409/index.m3u8
-#EXTINF:-1,tvg-id="SCTV-6高清" tvg-name="SCTV-6高清" tvg-logo="https://epg.112114.xyz/logo/SCTV6.png" group-title="四川",SCTV-6高清
+#EXTINF:-1,tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="https://epg.112114.xyz/logo/SCTV6.png" group-title="四川",SCTV-6高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227407/index.m3u8
 #EXTINF:-1,tvg-id="SCTV7" tvg-name="SCTV7" tvg-logo="https://epg.112114.xyz/logo/SCTV7.png" group-title="四川",SCTV-7高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227405/index.m3u8
