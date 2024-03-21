@@ -87,8 +87,10 @@ http://192.168.1.50:54022/rtp/239.93.5.113:7824
 http://192.168.1.50:54022/rtp/239.93.4.87:7348
 #EXTINF:-1 tvg-id="SCTV8" tvg-name="SCTV8" tvg-logo="https://epg.112114.xyz/logo/SCTV8.png" group-title="四川",SCTV8科教高清
 http://192.168.1.50:54022/rtp/239.93.5.209:8274
-#EXTINF:-1 tvg-id="SCTV9" tvg-name="SCTV9" tvg-logo="https://epg.112114.xyz/logo/SCTV9.png" group-title="四川",SCTV9乡村频道高清
+#EXTINF:-1 tvg-id="SCTV9" tvg-name="SCTV9" tvg-logo="https://epg.112114.xyz/logo/SCTV9.png" group-title="四川",SCTV9乡村高清
 http://192.168.1.50:54022/rtp/239.93.5.97:7820
+#EXTINF:-1 tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="四川",峨眉电影高清
+http://192.168.1.50:54022/rtp/239.93.5.116:8696
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视高清
 http://192.168.1.50:54022/rtp/239.93.4.212:8344
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视高清
@@ -139,8 +141,6 @@ http://192.168.1.50:54022/rtp/239.93.5.227:9834
 http://192.168.1.50:54022/rtp/239.93.5.173:7942
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://192.168.1.50:54022/rtp/239.93.4.254:7796
-#EXTINF:-1 tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="四川",峨眉电影高清
-http://192.168.1.50:54022/rtp/239.93.5.116:8696
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://192.168.1.50:54022/rtp/239.93.5.242:9924
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
