@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,dynadot.com
   - DOMAIN-SUFFIX,linksyssmartwifi.com
   - DOMAIN-SUFFIX,112114.xyz
+  - DOMAIN-SUFFIX,51zmt.top
   - SRC-IP-CIDR,192.168.1.74/32
   - SRC-IP-CIDR,192.168.1.91/32
   - SRC-IP-CIDR,192.168.1.92/32
