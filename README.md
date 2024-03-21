@@ -1,3 +1,10 @@
+# Github 静态加速
+https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
+https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+
+https://cdn.jsdelivr.net/gh/gentle95/oMoooTo@main/接口文件
+
 # oMoootO 自用OpenWrt云编译文件及直播源
 
 # [自用电视直播源(带台标信息)](https://raw.githubusercontent.com/gentle95/oMoooTo/main/oMoooTo.m3u)
