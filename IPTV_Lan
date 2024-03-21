@@ -193,11 +193,11 @@ http://192.168.1.50:54022/rtp/239.93.5.158:9432
 http://192.168.1.50:54022/rtp/239.93.5.32:8186
 #EXTINF:-1 tvg-id="大爱四川高清专区" tvg-name="大爱四川高清专区" tvg-logo="https://epg.112114.xyz/logo/大爱四川高清专区.png" group-title="四川",大爱四川高清专区
 http://192.168.1.50:54022/rtp/239.93.5.184:9576
-#EXTINF:-1 tvg-id="大爱旅游高清专区" tvg-name="大爱旅游高清专区" tvg-logo="https://epg.112114.xyz/logo/大爱旅游高清专区.png" group-title="港澳台",大爱旅游高清专区
+#EXTINF:-1 tvg-id="大爱旅游高清专区" tvg-name="大爱旅游高清专区" tvg-logo="https://epg.112114.xyz/logo/大爱旅游高清专区.png" group-title="四川",大爱旅游高清专区
 http://192.168.1.50:54022/rtp/239.93.5.225:8016
-#EXTINF:-1 tvg-id="大爱生活高清专区" tvg-name="大爱生活高清专区" tvg-logo="https://epg.112114.xyz/logo/大爱生活高清专区.png" group-title="港澳台",大爱生活高清专区
+#EXTINF:-1 tvg-id="大爱生活高清专区" tvg-name="大爱生活高清专区" tvg-logo="https://epg.112114.xyz/logo/大爱生活高清专区.png" group-title="四川",大爱生活高清专区
 http://192.168.1.50:54022/rtp/239.93.5.226:8020
-#EXTINF:-1 tvg-id="爱时尚" tvg-name="爱时尚" tvg-logo="https://epg.112114.xyz/logo/爱时尚.png" group-title="港澳台",大爱时尚高清专区
+#EXTINF:-1 tvg-id="爱时尚" tvg-name="爱时尚" tvg-logo="https://epg.112114.xyz/logo/爱时尚.png" group-title="四川",大爱时尚高清专区
 http://192.168.1.50:54022/rtp/239.93.5.228:8028
 #EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="其他",汽摩
 http://192.168.1.50:54022/rtp/239.93.5.111:8662
