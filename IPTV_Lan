@@ -81,7 +81,7 @@ http://192.168.1.50:54022/rtp/239.93.5.41:8240
 http://192.168.1.50:54022/rtp/239.93.4.179:7720
 #EXTINF:-1 tvg-id="SCTV5" tvg-name="SCTV5" tvg-logo="https://epg.112114.xyz/logo/SCTV5.png" group-title="其他",SCTV5高清
 http://192.168.1.50:54022/rtp/239.93.5.188:9600
-#EXTINF:-1 tvg-id="SCTV6高清" tvg-name="SCTV6高清" tvg-logo="https://epg.112114.xyz/logo/SCTV6.png" group-title="其他",SCTV6高清
+#EXTINF:-1 tvg-id="星空购物" tvg-name="星空购物" tvg-logo="https://epg.112114.xyz/logo/星空购物.png" group-title="其他",SCTV星空购物
 http://192.168.1.50:54022/rtp/239.93.5.113:7824
 #EXTINF:-1 tvg-id="SCTV7" tvg-name="SCTV7" tvg-logo="https://epg.112114.xyz/logo/SCTV7.png" group-title="其他",SCTV7高清
 http://192.168.1.50:54022/rtp/239.93.4.87:7348
