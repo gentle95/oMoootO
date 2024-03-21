@@ -53,7 +53,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227405/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227936/index.m3u8
 #EXTINF:-1 tvg-id="SCTV9" tvg-name="SCTV9" tvg-logo="https://epg.112114.xyz/logo/SCTV9.png" group-title="四川",SCTV-9高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227403/index.m3u8
-#EXTINF:-1 tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://epg.112114.xyz/logo/峨嵋电影.png" group-title="四川",峨嵋电影高清
+#EXTINF:-1 tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="四川",峨嵋电影高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227942/index.m3u8
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227629/index.m3u8
