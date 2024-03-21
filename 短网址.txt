@@ -1,6 +1,7 @@
 IPTV_Lan
 https://git.io/Jc86p
-https://raw.gitmirror.com/gentle95/oMoooTo/main/IPTV_Lan
+https://raw.gitmirror.com/gentle95/oMoooTo/TV/IPTV_Lan
+https://raw.gitmirror.com/gentle95/oMoooTo/TV/IPTV_unicom
 IPTV_Wan
 https://git.io/Jc89S
 
@@ -11,6 +12,6 @@ http://epg.51zmt.top:8000/cc.xml
 http://epg.112114.xyz
 http://epg.112114.xyz/pp.xml
 
-https://raw.gitmirror.com/gentle95/oMoooTo/main/IPTV_unicom
-https://cdn.jsdelivr.net/gh/gentle95/oMoooTo@main/IPTV_unicom
-https://cdn.jsdelivr.net/gh/gentle95/oMoooTo@main/IPTV_Lan
+https://raw.gitmirror.com/gentle95/oMoooTo/TV/IPTV_unicom
+https://cdn.jsdelivr.net/gh/gentle95/oMoooTo@TV/IPTV_unicom
+https://cdn.jsdelivr.net/gh/gentle95/oMoooTo@TV/IPTV_Lan
