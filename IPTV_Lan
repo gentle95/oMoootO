@@ -151,11 +151,11 @@ http://192.168.1.50:54022/rtp/239.93.5.3:8828
 http://192.168.1.50:54022/rtp/239.93.5.156:9410
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通
 http://192.168.1.50:54022/rtp/239.93.4.174:7760
-#EXTINF:-1,tvg-id="绵阳科技高清" tvg-name="绵阳科技高清" tvg-logo="https://epg.112114.xyz/logo/绵阳科技.png" group-title="其他",绵阳科技高清
+#EXTINF:-1,tvg-id="绵阳科技高清" tvg-name="绵阳科技高清" tvg-logo="https://cdn.jsdelivr.net/gh/gentle95/oMoooTo@main/mianyang.png" group-title="绵阳",绵阳科技高清
 http://192.168.1.50:54022/rtp/239.93.5.76:8450
-#EXTINF:-1,tvg-id="绵阳综合高清" tvg-name="绵阳综合高清" tvg-logo="https://epg.112114.xyz/logo/绵阳综合.png" group-title="其他",绵阳综合高清
+#EXTINF:-1,tvg-id="绵阳综合高清" tvg-name="绵阳综合高清" tvg-logo="https://cdn.jsdelivr.net/gh/gentle95/oMoooTo@main/mianyang.png" group-title="绵阳",绵阳综合高清
 http://192.168.1.50:54022/rtp/239.93.4.178:7712
-#EXTINF:-1,tvg-id="三台电视台" tvg-name="三台电视台" tvg-logo="https://epg.112114.xyz/logo/三台电视台.png" group-title="其他",三台电视台
+#EXTINF:-1,tvg-id="三台电视台" tvg-name="三台电视台" tvg-logo="https://cdn.jsdelivr.net/gh/gentle95/oMoooTo@main/mianyang.png" group-title="绵阳",三台电视台
 http://125.65.94.91:12351/live
 #EXTINF:-1,tvg-id="直播三台" tvg-name="直播三台" tvg-logo="https://epg.112114.xyz/logo/直播三台.png" group-title="其他",直播三台
 http://live.sctvcloud.com/live/stzhibo/playlist.m3u8
