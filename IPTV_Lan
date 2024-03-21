@@ -139,7 +139,7 @@ http://192.168.1.50:54022/rtp/239.93.5.227:9834
 http://192.168.1.50:54022/rtp/239.93.5.173:7942
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://192.168.1.50:54022/rtp/239.93.4.254:7796
-#EXTINF:-1 tvg-id="峨眉电影高清" tvg-name="峨眉电影高清" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="其他",峨眉电影高清
+#EXTINF:-1 tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="其他",峨眉电影高清
 http://192.168.1.50:54022/rtp/239.93.5.116:8696
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://192.168.1.50:54022/rtp/239.93.5.242:9924
