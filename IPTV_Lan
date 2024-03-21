@@ -85,9 +85,9 @@ http://192.168.1.50:54022/rtp/239.93.5.188:9600
 http://192.168.1.50:54022/rtp/239.93.5.113:7824
 #EXTINF:-1 tvg-id="SCTV7" tvg-name="SCTV7" tvg-logo="https://epg.112114.xyz/logo/SCTV7.png" group-title="其他",SCTV7高清
 http://192.168.1.50:54022/rtp/239.93.4.87:7348
-#EXTINF:-1 tvg-id="SCTV科教高清" tvg-name="SCTV科教高清" tvg-logo="https://epg.112114.xyz/logo/SCTV科教.png" group-title="其他",SCTV科教高清
+#EXTINF:-1 tvg-id="SCTV8" tvg-name="SCTV8" tvg-logo="https://epg.112114.xyz/logo/SCTV8.png" group-title="其他",SCTV8科教高清
 http://192.168.1.50:54022/rtp/239.93.5.209:8274
-#EXTINF:-1 tvg-id="四川乡村频道高清" tvg-name="四川乡村频道高清" tvg-logo="https://epg.112114.xyz/logo/四川乡村频道.png" group-title="四川",四川乡村频道高清
+#EXTINF:-1 tvg-id="SCTV9" tvg-name="SCTV9" tvg-logo="https://epg.112114.xyz/logo/SCTV9.png" group-title="四川",SCTV9乡村频道高清
 http://192.168.1.50:54022/rtp/239.93.5.97:7820
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视高清
 http://192.168.1.50:54022/rtp/239.93.4.212:8344
