@@ -9,6 +9,10 @@ payload:
   - DOMAIN-SUFFIX,linksyssmartwifi.com
   - DOMAIN-SUFFIX,112114.xyz
   - DOMAIN-SUFFIX,51zmt.top
+  - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,tmall
+  - DOMAIN-KEYWORD,vmall
+  - DOMAIN-KEYWORD,jd.com
   - SRC-IP-CIDR,192.168.1.74/32
   - SRC-IP-CIDR,192.168.1.91/32
   - SRC-IP-CIDR,192.168.1.92/32
