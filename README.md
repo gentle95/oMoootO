@@ -1,24 +1,3 @@
-# 直播源自用
-
-# 绵阳电信
-https://raw.gitmirror.com/gentle95/oMoooTo/TV/IPTV_Lan
-https://git.ddxm.pp.ua/https://raw.githubusercontent.com/gentle95/oMoooTo/TV/IPTV_Lan
-https://git.ddx2013.workers.dev/raw.githubusercontent.com/gentle95/oMoooTo/TV/IPTV_Lan
-https://iptv.ddxm.pp.ua
-https://iptv.ddx2013.workers.dev
-# 四川联通
-https://raw.gitmirror.com/gentle95/oMoooTo/TV/IPTV_unicom
-https://git.ddx2013.workers.dev/raw.githubusercontent.com/gentle95/oMoooTo/TV/IPTV_unicom
-https://iptv2.ddxm.pp.ua
-https://iptv-unicom.ddx2013.workers.dev
-# 电子节目单
-http://epg.51zmt.top:8000/cc.xml
-
-http://epg.112114.xyz
-
-http://epg.112114.xyz/pp.xml
-https://epg.ddx2013.link/pp.xml
-
 # Github 静态加速
 
 https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件
