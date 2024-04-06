@@ -157,9 +157,9 @@ http://192.168.1.50:54022/rtp/239.93.5.76:8450
 http://192.168.1.50:54022/rtp/239.93.4.178:7712
 #EXTINF:-1 tvg-id="三台电视台" tvg-name="三台电视台" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/gentle95/oMoooTo/TV/mianyang.png" group-title="绵阳",三台电视台
 http://125.65.94.91:12351/live
-#EXTINF:-1 tvg-id="直播三台" tvg-name="直播三台" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/gentle95/oMoooTo/TV/mianyang.png" group-title="其他",直播三台
+#EXTINF:-1 tvg-id="直播三台" tvg-name="直播三台" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/gentle95/oMoooTo/TV/mianyang.png" group-title="绵阳",直播三台
 http://live.sctvcloud.com/live/stzhibo/playlist.m3u8
-#EXTINF:-1 tvg-id="慢三台" tvg-name="慢三台" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/gentle95/oMoooTo/TV/mianyang.png" group-title="其他",慢三台
+#EXTINF:-1 tvg-id="慢三台" tvg-name="慢三台" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/gentle95/oMoooTo/TV/mianyang.png" group-title="绵阳",慢三台
 http://60.255.136.157/0.m3u8
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/上海纪实.png" group-title="上海",上海纪实高清
 http://192.168.1.50:54022/rtp/239.93.4.189:7736
