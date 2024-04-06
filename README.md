@@ -11,6 +11,7 @@ http://epg.51zmt.top:8000/cc.xml
 http://epg.112114.xyz
 
 http://epg.112114.xyz/pp.xml
+https://epg.ddx2013.link/pp.xml
 
 # Github 静态加速
 
