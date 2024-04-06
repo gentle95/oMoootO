@@ -2,6 +2,7 @@
 
 # 绵阳电信
 https://raw.gitmirror.com/gentle95/oMoooTo/TV/IPTV_Lan
+https://git.ddxm.pp.ua/https://raw.githubusercontent.com/gentle95/oMoooTo/main/IPTV_Lan
 # 四川联通
 https://raw.gitmirror.com/gentle95/oMoooTo/TV/IPTV_unicom
 # 电子节目单
