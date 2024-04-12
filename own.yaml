@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,112114.xyz
   - DOMAIN-SUFFIX,51zmt.top
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflarestatus.com
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,tmall
   - DOMAIN-KEYWORD,vmall
