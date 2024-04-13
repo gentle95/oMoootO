@@ -9,8 +9,8 @@ payload:
   - DOMAIN-SUFFIX,linksyssmartwifi.com
   - DOMAIN-SUFFIX,112114.xyz
   - DOMAIN-SUFFIX,51zmt.top
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,cloudflarestatus.com
+  #- DOMAIN-SUFFIX,cloudflare.com
+  #- DOMAIN-SUFFIX,cloudflarestatus.com
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,tmall
