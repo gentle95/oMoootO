@@ -35,17 +35,17 @@ http://192.168.1.50:54022/rtp/239.93.5.154:7832
 http://192.168.1.50:54022/rtp/239.93.5.78:8462
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/CCTV4K.png" group-title="央视",CCTV4K
 http://192.168.1.50:54022/rtp/239.93.4.16:7040
-#EXTINF:-1 tvg-id="爱上4K专区" tvg-name="爱上4K专区" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/爱上4K专区.png" group-title="4K",爱上4K专区
+#EXTINF:-1 tvg-id="爱上4K专区" tvg-name="爱上4K专区" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/爱上4K.png" group-title="4K",爱上4K专区
 http://192.168.1.50:54022/rtp/239.93.4.252:8816
-#EXTINF:-1 tvg-id="绚影4K专区" tvg-name="绚影4K专区" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/绚影4K专区.png" group-title="4K",绚影4K专区
+#EXTINF:-1 tvg-id="绚影4K专区" tvg-name="绚影4K专区" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/绚影4K.png" group-title="4K",绚影4K专区
 http://192.168.1.50:54022/rtp/239.93.4.248:8800
-#EXTINF:-1 tvg-id="亲子趣学4K专区" tvg-name="亲子趣学4K专区" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/亲子趣学4K专区.png" group-title="4K",亲子趣学4K专区
+#EXTINF:-1 tvg-id="亲子趣学4K专区" tvg-name="亲子趣学4K专区" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/亲子趣学4K.png" group-title="4K",亲子趣学4K专区
 http://192.168.1.50:54022/rtp/239.93.5.236:8094
-#EXTINF:-1 tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/中录动漫4K专区.png" group-title="4K",中录动漫4K专区
+#EXTINF:-1 tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/中录动漫4K.png" group-title="4K",中录动漫4K专区
 http://192.168.1.50:54022/rtp/239.93.5.235:8090
-#EXTINF:-1 tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/4K乐享专区.png" group-title="4K",4K乐享超清专区
+#EXTINF:-1 tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/4K乐享.png" group-title="4K",4K乐享超清专区
 http://192.168.1.50:54022/rtp/239.93.5.246:8106
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/欢笑剧场.png" group-title="4K",欢笑剧场4K
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/欢笑剧场4K.png" group-title="4K",欢笑剧场4K
 http://192.168.1.50:54022/rtp/239.93.5.5:7000
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://git.ddxm.pp.ua/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://192.168.1.50:54022/rtp/239.93.4.206:8844
