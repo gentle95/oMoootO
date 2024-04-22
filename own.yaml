@@ -12,6 +12,8 @@ payload:
   #- DOMAIN-SUFFIX,cloudflare.com
   #- DOMAIN-SUFFIX,cloudflarestatus.com
   - DOMAIN-SUFFIX,workers.dev
+  - DOMAIN-SUFFIX,docker.xiaoya.pro
+  - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,tmall
   - DOMAIN-KEYWORD,vmall
@@ -20,3 +22,5 @@ payload:
   - SRC-IP-CIDR,192.168.1.91/32
   - SRC-IP-CIDR,192.168.1.92/32
   - SRC-IP-CIDR,192.168.1.93/32
+  - IP-CIDR,172.67.178.229/32
+  - IP-CIDR,172.65.251.78:443/32
