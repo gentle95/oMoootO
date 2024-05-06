@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,gamer520.com
   - DOMAIN-SUFFIX,dynadot.com
   - DOMAIN-SUFFIX,linksyssmartwifi.com
-  - DOMAIN-SUFFIX,112114.xyz
   - DOMAIN-SUFFIX,51zmt.top
   #- DOMAIN-SUFFIX,cloudflare.com
   #- DOMAIN-SUFFIX,cloudflarestatus.com
@@ -23,5 +22,3 @@ payload:
   - SRC-IP-CIDR,192.168.1.91/32
   - SRC-IP-CIDR,192.168.1.92/32
   - SRC-IP-CIDR,192.168.1.93/32
-  - IP-CIDR,172.67.178.229/32
-  - IP-CIDR,172.65.251.78/32
