@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,dynadot.com
   - DOMAIN-SUFFIX,linksyssmartwifi.com
   - DOMAIN-SUFFIX,51zmt.top
+  - DOMAIN-SUFFIX,hulizhushou.com
+  - DOMAIN-SUFFIX,jd.com
   #- DOMAIN-SUFFIX,cloudflare.com
   #- DOMAIN-SUFFIX,cloudflarestatus.com
   - DOMAIN-SUFFIX,workers.dev
@@ -16,8 +18,6 @@ payload:
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,tmall
   - DOMAIN-KEYWORD,vmall
-  - DOMAIN-KEYWORD,jd.com
-  - DOMAIN-KEYWORD,hulizhushou.com
   #- SRC-IP-CIDR,192.168.1.64/32
   - SRC-IP-CIDR,192.168.1.74/32
   - SRC-IP-CIDR,192.168.1.91/32
