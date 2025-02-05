@@ -15,6 +15,8 @@ payload:
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,docker.xiaoya.pro
   - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,quark.com
+  - DOMAIN-SUFFIX,quark.cn
   - DOMAIN-KEYWORD,quark
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,tmall
