@@ -1,0 +1,294 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: error
+external-controller: :9090
+dns:
+  enable: true
+  ipv6: false
+  listen: 127.0.0.1:5450
+  enhanced-mode: redir-host
+  default-nameserver:
+    - 119.29.29.29
+    - 119.28.28.28
+    - 1.0.0.1
+    - 208.67.222.222
+    - 1.2.4.8
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://1.1.1.1/dns-query
+    - tls://dns.adguard.com:853
+proxy-providers:
+  CloudFlare:
+    type: http
+    # url: "https://git.ddxm.pp.ua/raw.githubusercontent.com/gentle95/oMoooTo/refs/heads/rules/vl"
+    # url: "https://cf.ddxm.pp.ua/bestip/ce8b5bb9-bff8-41bb-977b-19d2f58c089d"
+    url: "https://cf2.ddxm.pp.ua/ce8b5bb9-bff8-41bb-977b-19d2f58c089d?b64"
+    path: ./cloudflarevless.yaml
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    exclude-filter: "教程|Channel|CFnat"
+  Google:
+    type: http
+    url: "https://git.ddxm.pp.ua/gist.githubusercontent.com/gentle95/0286c98ea86e1e7f34050b023bdb918c/raw/5e6afb548dbd52f31d802a60738397b0da510902/Vless"
+    path: ./googlevless.yaml
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+proxy-groups:
+  - name: 🔰 节点选择
+    type: select
+    proxies:
+      - 🌊 全部节点
+      - 🚀 故障转移
+      - 🌈 CloudFlare_Cloud
+      - ♻️ Google_Cloud
+      - 💦 手动选择
+      - 🎯 全球直连
+  - name: 🌊 全部节点
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    use:
+      - CloudFlare
+      - Google
+  - name: 🌈 CloudFlare_Cloud
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    use:
+      - CloudFlare
+  - name: ♻️ Google_Cloud
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    use:
+      - Google
+  - name: 🚀 故障转移
+    type: fallback
+    proxies:
+      - ♻️ Google_Cloud
+      - 🌈 CloudFlare_Cloud
+  - name: 💦 手动选择
+    type: select
+    proxies:
+      - 🎯 全球直连
+    use:
+      - Google
+      - CloudFlare
+  - name: ♨ Hot
+    type: select
+    proxies:
+      - 💦 手动选择
+      - 🔰 节点选择
+      - 🌈 CloudFlare_Cloud
+      - ♻️ Google_Cloud
+      - 🎯 全球直连
+  - name: 🌍 国外媒体
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 💦 手动选择
+      - 🌈 CloudFlare_Cloud
+      - ♻️ Google_Cloud
+      - 🎯 全球直连
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 💦 手动选择
+      - 🌈 CloudFlare_Cloud
+      - ♻️ Google_Cloud
+      - 🎯 全球直连
+  - name: 🎮 Steam
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 💦 手动选择
+      - 🌈 CloudFlare_Cloud
+      - ♻️ Google_Cloud
+      - 🎯 全球直连
+  - name: 📲 电报信息
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 💦 手动选择
+      - 🌈 CloudFlare_Cloud
+      - ♻️ Google_Cloud
+      - 🎯 全球直连
+  - name: 🍎 苹果服务
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 💦 手动选择
+      - 🌈 CloudFlare_Cloud
+      - ♻️ Google_Cloud
+      - 🎯 全球直连
+  - name: 🚅 网络测速
+    type: select
+    proxies:
+      - 🎯 全球直连
+      - 🔰 节点选择
+      - 💦 手动选择
+      - 🌈 CloudFlare_Cloud
+      - ♻️ Google_Cloud      
+  - name: 🏴󠁨󠁮󠁧󠁤󠁿 OpenAI
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 💦 手动选择
+      - 🌈 CloudFlare_Cloud
+      - ♻️ Google_Cloud
+      - 🎯 全球直连
+  - name: 🎯 全球直连
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🛑 全球拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🎯 全球直连
+      - 🔰 节点选择
+      - 💦 手动选择
+      - 🌈 CloudFlare_Cloud
+      - ♻️ Google_Cloud
+rules:
+ - DOMAIN-SUFFIX,local,🎯 全球直连
+ - RULE-SET,局域网,🎯 全球直连
+ - RULE-SET,自定义,🎯 全球直连
+ - RULE-SET,拦截,🛑 全球拦截
+ - RULE-SET,直连-1,🎯 全球直连
+ - RULE-SET,直连-2,🎯 全球直连
+ - RULE-SET,直连-3,🎯 全球直连
+ - GEOIP,CN,🎯 全球直连
+ - RULE-SET,hot,♨ Hot
+ - RULE-SET,测速,🚅 网络测速
+ - RULE-SET,苹果服务-1,🍎 苹果服务
+ - RULE-SET,苹果服务-2,🍎 苹果服务
+ - RULE-SET,微软服务,Ⓜ️ 微软服务
+ - RULE-SET,openai,🏴󠁨󠁮󠁧󠁤󠁿 OpenAI
+ - RULE-SET,steam,🎮 Steam
+ - RULE-SET,telegram,📲 电报信息
+ - RULE-SET,Google-1,🌍 国外媒体
+ - RULE-SET,Google-2,🌍 国外媒体
+ - RULE-SET,国外-1,🌍 国外媒体
+ - RULE-SET,国外-2,🌍 国外媒体
+ - MATCH,🐟 漏网之鱼
+rule-providers:
+  直连-1:
+    type: http
+    behavior: domain
+    path: ./0.DIRECT-1.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt"
+    interval: 600
+  直连-2:
+    type: http
+    behavior: ipcidr
+    path: ./0.DIRECT-2.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt"
+    interval: 600
+  直连-3:
+    type: http
+    behavior: domain
+    path: ./0.DIRECT-3.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
+    interval: 600
+  局域网:
+    type: http
+    behavior: ipcidr
+    path: ./0.lancidr.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt"
+    interval: 600
+  拦截:
+    type: http
+    behavior: domain
+    path: ./0.block-1.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+    interval: 600
+  苹果服务-1:
+    type: http
+    behavior: domain
+    path: ./0.apple-1.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt"
+    interval: 600
+  苹果服务-2:
+    type: http
+    behavior: domain
+    path: ./0.apple-2.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt"
+    interval: 600
+  hot:
+    type: http
+    behavior: classical
+    path: ./0.hot.yaml 
+    url: "https://git.ddxm.pp.ua/raw.githubusercontent.com/gentle95/oMoooTo/rules/hot.yaml"
+    interval: 600
+  微软服务:
+    type: http
+    behavior: classical
+    path: ./0.microsoft.yaml 
+    url: "https://git.ddxm.pp.ua/raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml"
+    interval: 600
+  openai:
+    type: http
+    behavior: classical
+    path: ./0.openai.yaml 
+    url: "https://git.ddxm.pp.ua/raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml"
+    interval: 600
+  国外-1:
+    type: http
+    behavior: domain
+    path: ./0.out-1.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
+    interval: 600
+  国外-2:
+    type: http
+    behavior: domain
+    path: ./0.out-2.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
+    interval: 600
+  测速:
+    type: http
+    behavior: classical
+    path: ./0.speed.yaml 
+    url: "https://git.ddxm.pp.ua/raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.yaml"
+    interval: 600
+  steam:
+    type: http
+    behavior: classical
+    path: ./0.steam.yaml 
+    url: "https://git.ddxm.pp.ua/raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.yaml"
+    interval: 600
+  telegram:
+    type: http
+    behavior: ipcidr
+    path: ./0.telegram.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
+    interval: 600
+  Google-1:
+    type: http
+    behavior: domain
+    path: ./0.google-1.yaml 
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
+    interval: 600
+  Google-2:
+    type: http
+    behavior: classical
+    path: ./0.google-2.yaml 
+    url: "https://git.ddxm.pp.ua/raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.yaml"
+    interval: 600
+  自定义:
+    type: http
+    behavior: classical
+    path: ./0.own.yaml 
+    url: "https://git.ddxm.pp.ua/raw.githubusercontent.com/gentle95/oMoooTo/rules/own.yaml"
+    interval: 600
