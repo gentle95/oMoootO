@@ -22,8 +22,6 @@ dns:
 proxy-providers:
   CloudFlare:
     type: http
-    # url: "https://git.ddxm.pp.ua/raw.githubusercontent.com/gentle95/oMoooTo/refs/heads/rules/vl"
-    # url: "https://cf.ddxm.pp.ua/bestip/ce8b5bb9-bff8-41bb-977b-19d2f58c089d"
     url: "https://cf2.ddxm.pp.ua/ce8b5bb9-bff8-41bb-977b-19d2f58c089d?b64"
     path: ./cloudflarevless.yaml
     health-check:
