@@ -150,7 +150,7 @@ proxy-groups:
     type: select
     proxies:
       - REJECT
-      - DIRECT
+      - 🎯 全球直连
   - name: 🐟 漏网之鱼
     type: select
     proxies:
